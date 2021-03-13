@@ -1,0 +1,1 @@
+echo "multiplication prog"
